@@ -1,4 +1,4 @@
 print "welcome to the github"
 print "mergering of two branches"
 print "relsove the conflict"
-print "mergering of two branchesadding lines and mergre the file afte adding some conte
+print "mergering of two branchesadding lines and mergre the file afte adding some 
