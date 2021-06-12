@@ -1,0 +1,2 @@
+print "welcome to the github"
+print "mergering of two branches"
