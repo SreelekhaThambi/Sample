@@ -1,2 +1,2 @@
 print "welcome to the github"
-print "mergering of two branches"
+print "mergering of two branchesadding lines and mergre the file afte adding some content
